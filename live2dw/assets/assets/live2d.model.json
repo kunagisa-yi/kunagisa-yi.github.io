@@ -1,0 +1,9 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "live2d",
+	"model": "live2d.moc",
+	"textures": [
+		"live2d.1024/texture_00.png"
+	],"motions":{"idle":[{"file":"mtn/idle_01.mtn"},{"file":"mtn/idle_02.mtn"},{"file":"mtn/idle_03.mtn"}]},
+	"physics":"live2d.physics.json"
+}
