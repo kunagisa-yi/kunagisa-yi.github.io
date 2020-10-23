@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>KunagisaYi</title>
+  <title>Mental Health</title>
   
   <subtitle>blog</subtitle>
   <link href="/kunagisa-yi.github.io/atom.xml" rel="self"/>
   
   <link href="https://kunagisa-yi.github.io/"/>
-  <updated>2019-03-21T07:48:14.313Z</updated>
+  <updated>2020-10-23T03:04:50.495Z</updated>
   <id>https://kunagisa-yi.github.io/</id>
   
   <author>
-    <name>KunagisaYi</name>
+    <name>Echo</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>visitors</title>
-    <link href="https://kunagisa-yi.github.io/2019/03/21/visitors/"/>
-    <id>https://kunagisa-yi.github.io/2019/03/21/visitors/</id>
-    <published>2019-03-21T07:35:01.000Z</published>
-    <updated>2019-03-21T07:48:14.313Z</updated>
+    <title>Mental Illness Rates</title>
+    <link href="https://kunagisa-yi.github.io/2020/10/23/rate/"/>
+    <id>https://kunagisa-yi.github.io/2020/10/23/rate/</id>
+    <published>2020-10-23T02:55:07.932Z</published>
+    <updated>2020-10-23T03:04:50.495Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\kunagisa-yi.github.io\assets\css\APlayer.min.css"><script src="\kunagisa-yi.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Every visitor leaves an eternal dot on the 3D globe, recent visitor locations are tagged by the labels showing the flag of the country as well as city and state.</p><p><script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0lx3pexkmty&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-460&amp;ly=460&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script><br>reference: <a href="https://www.revolvermaps.com" target="_blank" rel="noopener">https://www.revolvermaps.com</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\kunagisa-yi.github.io\assets\css\APlayer.min.css"><script src="\kunagisa-yi.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Brazil</p><iframe src="https://public.tableau.com/views/Brazil_16031936768250/1?:showVizHome=no&:embed=true" width="1600" height="400"></iframe>]]></content>
     
     <summary type="html">
     
@@ -38,13 +38,13 @@
   </entry>
   
   <entry>
-    <title>sincerely</title>
-    <link href="https://kunagisa-yi.github.io/2019/03/21/sincerely/"/>
-    <id>https://kunagisa-yi.github.io/2019/03/21/sincerely/</id>
-    <published>2019-03-21T03:22:45.000Z</published>
-    <updated>2019-03-21T07:53:24.652Z</updated>
+    <title>page</title>
+    <link href="https://kunagisa-yi.github.io/2020/10/23/gender/"/>
+    <id>https://kunagisa-yi.github.io/2020/10/23/gender/</id>
+    <published>2020-10-23T02:55:02.000Z</published>
+    <updated>2020-10-23T03:05:00.743Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\kunagisa-yi.github.io\assets\css\APlayer.min.css"><script src="\kunagisa-yi.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe src="//player.bilibili.com/player.html?aid=46023877&cid=80628081&page=1" width="720" height="576" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\kunagisa-yi.github.io\assets\css\APlayer.min.css"><script src="\kunagisa-yi.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
     <summary type="html">
     
@@ -55,19 +55,17 @@
     
     </summary>
     
-      <category term="cevio" scheme="https://kunagisa-yi.github.io/categories/cevio/"/>
-    
     
   </entry>
   
   <entry>
-    <title>***Welcome to my blog***</title>
-    <link href="https://kunagisa-yi.github.io/2019/03/21/hello-world/"/>
-    <id>https://kunagisa-yi.github.io/2019/03/21/hello-world/</id>
-    <published>2019-03-21T03:06:20.739Z</published>
-    <updated>2019-03-21T07:52:04.221Z</updated>
+    <title>Introduction</title>
+    <link href="https://kunagisa-yi.github.io/2020/10/23/homepage/"/>
+    <id>https://kunagisa-yi.github.io/2020/10/23/homepage/</id>
+    <published>2020-10-23T02:49:00.127Z</published>
+    <updated>2020-10-23T02:56:18.097Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\kunagisa-yi.github.io\assets\css\APlayer.min.css"><script src="\kunagisa-yi.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>This is a blog for displaying some of my works, including songs, paintings, models and something else. </p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\kunagisa-yi.github.io\assets\css\APlayer.min.css"><script src="\kunagisa-yi.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>精神障碍：也称为精神疾病或精神疾病，是一种行为或精神​​模式，其会导致严重的困扰或人身功能受损。这样的特征可以是持续的，复发的或缓和的，或者单一的特征。许多疾病已经有特定的描述，因此具体疾病之间的体征和症状差异很大。</p><p>抑郁症：抑郁症（depression）是抑郁障碍的一种典型情况，主要表现为情绪低落，兴趣减低，悲观，思维迟缓，缺乏主动性，自责自罪，饮食、睡眠差，担心自己患有各种疾病，感到全身多处不适，严重者可出现自杀念头和行为，是精神科自杀率最高的疾病。抑郁症的病因及发病机制尚不清楚，可能涉及生理、心理与社会等诸多因素。抑郁症发病率很高，据WHO（2012年）统计全球越有3.5亿抑郁症患者，因此它被称为精神病学中的感冒。抑郁症目前已成为全球疾病中给人类造成严重负担的第二位重要疾病</p><p>焦虑症：焦虑障碍俗称焦虑症，是最常见的精神心理疾病之一，正如其名，焦虑症最明显的表现就是强烈的焦虑感，紧张担心，坐立不安。焦虑障碍的核心表现是过度担心，比如惊恐不安，无法冷静，气促等。<br>躁郁症：分裂情感性精神病又称为分离情感性障碍（躁郁症），患者可同时出现交替出现幻觉、妄想等分裂性症状，以及躁狂、抑郁等情感性症状。目前本病的确切病因并不十分清楚，可能与遗传因素、大脑结构异常、心理社会因素等有关。对于分离情感性精神病目前并没有治愈的方法，因此患者可能需要长期治疗，治疗方法主要包括药物治疗、心理治疗以及物理治疗</p><p>进食障碍，饮食失调：进食障碍（eatingdisorders）是一种十分严重的以饮食行为问题为特征的疾病，目前进食障碍的确切因素及发病机制并不十分清楚，但可能是多种因素相互作用的结果。进食障碍可分为许多类型，主要包括神经性厌食症、神经性贪食症、暴食障碍和异食癖，患者可因为不同的分型表现出不同的症状，如节食、过度锻炼、暴饮暴食、饭后呕吐、使用泻药等。进食障碍主要好发于青少年和青年，女性多于男性，但是异食癖以婴幼儿多见。进食障碍可对患者的健康、情绪及生活重要领域的能力产生许多负面影响，因此一旦出现进食障碍要尽早治疗<br>精神分裂症：精神分裂症是一种慢性、严重性的精神疾病。它以感知觉、思维、情感、行为等多方面障碍，以及精神活动的不协调为特征，常见表现为幻听、偏执、奇特的妄想或语言和思维紊乱，伴随明显的社会或职业功能障碍，多起病于15~55岁。目前来说精神分裂症的病因及发病机制并不十分明确，可能与遗传因素、大脑解构、神经递质、目前妊娠问题等因素有关。部分精神分裂症经过积极治疗后预后较好；但也有部分患者可能会造成明显的社会功能损害，不能正常的结婚或工作</p><p>酒精滥用：酒精中毒，更恰当地称为酒精使用障碍（AUD），广泛地是指任何饮酒会导致精神和/或身体健康问题，从轻度和潜移默化的程度到没有经过特别测试的公开场合。该疾病以前分为两种类型：酗酒和酒精依赖。在医学背景下，据说存在以下两种或两种以上的情况，那就是存在酒精中毒：一个人长时间喝大量的酒精，难以减少，获取和喝酒会花费大量时间，对酒精强烈需求的使用导致不履行职责、社会问题、健康问题、危险情况，且停止饮酒时会出现酒精耐受性。饮酒会影响身体的各个部位，但尤其会影响大脑，心脏，肝脏，胰腺和免疫系统</p><p>药物滥用：物质使用障碍(SUD)是指不顾重大伤害和不良后果而持续使用药物(包括酒精)。物质使用障碍的特征是一系列精神/情感、身体和行为问题，如慢性负罪感;尽管一再尝试，但仍不能减少或停止服用该物质;醉酒驾驶;生理戒断症状。SUD的类药物包括:酒精;咖啡因;大麻;苯丙啶和其他迷幻剂，如芳基环己胺;吸入剂;阿片类药物;镇静剂,</p>]]></content>
     
     <summary type="html">
     
